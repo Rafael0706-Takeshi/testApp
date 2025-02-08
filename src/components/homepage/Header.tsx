@@ -104,9 +104,12 @@ export default function Header(props: any) {
             transform: "translateY(50px) scale(0.2) translateZ(0)",
           }}
         >
-          <h2 className="h1 text-gradient text-center position-relative z-3 d-inline">
+          <h1
+            className="h1 text-gradient text-center position-relative z-3 d-inline"
+            // style={{ fontSize: "100px" }}
+          >
             We are all about privacy and security
-          </h2>
+          </h1>
         </div>
 
         {/* card1 */}

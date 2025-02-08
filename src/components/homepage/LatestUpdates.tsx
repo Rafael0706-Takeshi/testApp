@@ -5,21 +5,21 @@ import CustomCard2 from "../CustomCard2";
 export default function LatestUpdates(props: any) {
   const cardData2 = [
     {
-      pic: "./assets/images/image(1).webp",
+      pic: "./assets/images/image (1).webp",
       badgeText: "New Release",
       headLabel: "New Token Supported:",
       headText: "Goatseus Maximus(SOL)",
       bottomText: "Released: 07/01/25",
     },
     {
-      pic: "./assets/images/image(2).webp",
+      pic: "./assets/images/image (2).webp",
       badgeText: "New Release",
       headLabel: "New Token Supported:",
       headText: "Goatseus Maximus(SOL)",
       bottomText: "Released: 07/01/2",
     },
     {
-      pic: "./assets/images/image(3).webp",
+      pic: "./assets/images/image (3).webp",
       badgeText: "New Release",
       headLabel: "New Token Supported:",
       headText: "Goatseus Maximus(SOL)",

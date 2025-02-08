@@ -19,7 +19,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/btc.svg"
+              src="./assets/images/image (4).webp"
             />
             <img
               alt="Ethereum"
@@ -29,7 +29,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/eth.svg"
+              src="./assets/images/image (5).webp"
             />
             <img
               alt="BNB Smart Chain"
@@ -39,7 +39,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/bnb.svg"
+              src="./assets/images/image (6).webp"
             />
             <img
               alt="Solana"
@@ -49,7 +49,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/sol.svg"
+              src="./assets/images/image (7).webp"
             />
             <img
               alt="Uniswap"
@@ -59,7 +59,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/uni.svg"
+              src="./assets/images/image (8).webp"
             />
             <img
               alt="Cardano"
@@ -69,7 +69,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/ada.svg"
+              src="./assets/images/image (9).webp"
             />
             <img
               alt="BinanceUSD(ERC20)"
@@ -79,7 +79,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/busd.svg"
+              src="./assets/images/image (10).webp"
             />
             <img
               alt="Dai(ERC20)"
@@ -89,7 +89,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/dai.svg"
+              src="./assets/images/image (11).webp"
             />
             <img
               alt="Dogecoin"
@@ -99,7 +99,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/doge.svg"
+              src="./assets/images/image (12).webp"
             />
             <img
               alt="Chainlink"
@@ -109,7 +109,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/link.svg"
+              src="./assets/images/image (13).webp"
             />
             <img
               alt="Litecoin"
@@ -119,7 +119,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/ltc.svg"
+              src="./assets/images/image (14).webp"
             />
             <img
               alt="Tron"
@@ -129,7 +129,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/trx.svg"
+              src="./assets/images/image (15).webp"
             />
             <img
               alt="USD Coin(ERC20)"
@@ -139,7 +139,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/usdc.svg"
+              src="./assets/images/image (16).webp"
             />
             <img
               alt="Tether USD(ERC20)"
@@ -149,7 +149,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/usdt.svg"
+              src="./assets/images/image (17).webp"
             />
             <img
               alt="PancakeSwap(BEP20)"
@@ -159,7 +159,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/cake.svg"
+              src="./assets/images/image (18).webp"
             />
             <img
               alt="Polygon(ERC20)"
@@ -169,7 +169,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/matic.svg"
+              src="./assets/images/image (19).webp"
             />
             <img
               alt="1inch(ERC20)"
@@ -179,7 +179,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/1inch.svg"
+              src="./assets/images/image (20).webp"
             />
             <img
               alt="Fantom(ERC20)"
@@ -189,7 +189,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/ftm.svg"
+              src="./assets/images/image (21).webp"
             />
             <img
               alt="Monero"
@@ -199,7 +199,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/xmr.svg"
+              src="./assets/images/image (22).webp"
             />
             <img
               alt="SHIBA INU(ERC20)"
@@ -209,7 +209,7 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/shib.svg"
+              src="./assets/images/image (23).webp"
             />
             <img
               alt="Pepe(ERC20)"
@@ -219,9 +219,9 @@ export default function Crypto() {
               decoding="async"
               data-nimg="1"
               style={{ color: "transparent" }}
-              src="/assets/tokens/pepe.svg"
+              src="./assets/images/image (24).webp"
             />
-            <img
+            {/* <img
               alt="Floki Inu(BEP20)"
               loading="lazy"
               width="80"
@@ -3382,7 +3382,7 @@ export default function Crypto() {
               style={{ color: "transparent" }}
               srcSet="/_next/image?url=%2Fassets%2Ftokens%2Fpnut.png&amp;w=96&amp;q=75 1x, /_next/image?url=%2Fassets%2Ftokens%2Fpnut.png&amp;w=256&amp;q=75 2x"
               src="/_next/image?url=%2Fassets%2Ftokens%2Fpnut.png&amp;w=256&amp;q=75"
-            />
+            /> */}
           </div>
         </div>
       </section>

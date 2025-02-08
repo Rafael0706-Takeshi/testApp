@@ -23,7 +23,7 @@ export default function SendCard(props: any) {
                     decoding="async"
                     data-nimg="1"
                     style={{ color: "transparent" }}
-                    src="/assets/tokens/btc.svg"
+                    src="/assets/images/image (8).webp"
                   />
                 </div>
                 <div className="d-flex flex-column justify-content-center align-items-start ms-3">
