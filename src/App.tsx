@@ -6,7 +6,7 @@ import Tokenpage from "./pages/Tokenpage";
 import Revenuepage from "./pages/Revenuepage";
 
 import { Routes, Route } from "react-router-dom";
-import Layout from "./pages/Layout";
+import Layout from "./layout/Layout";
 
 function App() {
   return (
