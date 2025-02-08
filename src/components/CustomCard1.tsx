@@ -15,7 +15,7 @@ export default function CustomCard1(props: any) {
               data-nimg="1"
               className="c-features__image m-auto d-block my-3 my-lg-4"
               style={{ color: "transparent" }}
-              srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprivacy-driven.898bc50b.webp&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprivacy-driven.898bc50b.webp&amp;w=384&amp;q=75 2x"
+              // srcSet="./privacy-driven.webp&amp;w=256&amp;q=75 1x, ./privacy-driven.webp&amp;w=384&amp;q=75 2x"
               src={props.pic}
             />
           </div>

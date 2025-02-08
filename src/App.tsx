@@ -1,12 +1,9 @@
 // import logo from './logo.svg';
 import "./App.css";
-import Navbar from "./pages/Navbar";
-import Header from "./pages/Header";
 import Homepage from "./pages/Homepage";
 import Faqpage from "./pages/Faqpage";
 import Tokenpage from "./pages/Tokenpage";
 import Revenuepage from "./pages/Revenuepage";
-import Footer from "./pages/Footer";
 
 import { Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";

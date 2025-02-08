@@ -15,7 +15,7 @@ export default function CustomCard1(props: any) {
               data-nimg="1"
               className="c-features__image m-auto d-block my-3 my-lg-4"
               style={{ color: "transparent" }}
-              src="/assets/tokens/goat.svg"
+              src={props.pic}
             />
           </div>
         </div>
