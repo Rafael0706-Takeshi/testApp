@@ -19,7 +19,7 @@ export default function Footer() {
                   decoding="async"
                   data-nimg="1"
                   style={{ color: "transparent" }}
-                  src="/_next/static/media/logo-icon-purple.23cc6a6a.svg"
+                  src="/logo-icon-purple.23cc6a6a.svg"
                 />
                 <p className="fs-4 ms-2">Veil</p>
               </a>

@@ -69,9 +69,9 @@ export default function Header() {
           autoPlay
           loop
           muted
-          poster="/assets/home/hero-bg.webp"
+          poster="/herobackground.webp"
         >
-          <source src="/assets/home/herobackground.webm" type="video/webm" />
+          <source src="./herobackground.webm" type="video/webm" />
         </video>
       </header>
     </div>

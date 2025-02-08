@@ -7,7 +7,7 @@ import Footer from "./pages/Footer";
 
 function App() {
   return (
-    <div className="App" style={{ backgroundColor: "black" }}>
+    <div className="App">
       <Navbar />
       <Header />
       <Homepage />
